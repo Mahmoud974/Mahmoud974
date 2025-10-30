@@ -1,34 +1,58 @@
-<h1 align="center">Hey there 👋, I'm Mahmoud Moussa</h1>
+<h1 align="center">👋 Hey there, I'm Mahmoud Moussa</h1>
 
 <p align="center">
-🚀 Full-Stack Developer | 🎨 Designer | ☁️ Cloud Enthusiast  
+🚀 Full-Stack Developer | ☁️ Cloud & DevOps Enthusiast | 🎨 Designer  
 <br/>
-I build modern web apps that combine clean design, strong performance, and smart architecture.
+I create scalable applications with modern web technologies and cloud-native architectures.
 </p>
 
 ---
 
 ### 🧠 About Me  
-- 🎥 Working on **an Author’s Vlog** — merging storytelling and technology  
-- 🚖 Building an **Uber-like app** for the **Comoros Islands**  
-- 🌱 Currently learning **Redux Toolkit** and advanced React patterns  
-- 💬 Passionate about **front-end architecture, UX/UI design**, and **automation**  
-- ⚡ Fun fact: *I’m lazy, but efficiently lazy — I automate my laziness 😎*
+- 🎥 Currently working on **an Author’s Vlog** — merging creativity & technology  
+- 🚖 Developing a **ride-sharing app for the Comoros Islands** (Uber-like concept)  
+- 🌱 Learning **Redux Toolkit** & improving state management in React  
+- 💡 Interested in **cloud automation, microservices, and scalable design**  
+- ⚡ Fun fact: *I’m lazy — but I use it as motivation to automate everything I can 😎*
 
 ---
 
-### 🌍 Connect With Me  
+### 🌐 Connect With Me  
 <p align="left">
-<a href="https://instagram.com/mahmoud_zakaria26" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" width="40"/></a>
-<a href="https://www.linkedin.com/in/mahamoudmoussa1" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" width="40"/></a>
+<a href="https://www.linkedin.com/in/mahamoudmoussa1" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" width="45" alt="LinkedIn"/>
+</a>
 </p>
 
 ---
 
-### 🛠️ Tech Arsenal  
-<p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,nodejs,express,mongodb,postgresql,figma,illustrator,photoshop,vercel,netlify" />
-</p>
+### 💻 Tech Stack (with names)
+#### 🧩 Front-End
+- **React.js** – Modern component-based UI library  
+- **Next.js** – Full-stack React framework with server-side rendering  
+- **Zustand** – Lightweight state management for React  
+- **Redux Toolkit** – Scalable state management system  
+- **Tailwind CSS / SASS / Bootstrap** – Styling frameworks for modern UI  
+
+#### ⚙️ Back-End
+- **Node.js & Express.js** – Backend runtime & REST API framework  
+- **Prisma ORM** – Database toolkit for Node.js and TypeScript  
+- **PostgreSQL** – Relational database  
+- **JWT (JSON Web Tokens)** – Secure authentication  
+
+#### ☁️ Cloud & DevOps
+- **AWS (Amazon Web Services)** – Cloud computing & infrastructure  
+- **Docker** – Containerization platform  
+- **Kubernetes (K3s)** – Container orchestration  
+- **Terraform** – Infrastructure as Code (IaC)  
+- **n8n** – Automation and workflow orchestration tool  
+- **Netlify / Vercel** – Cloud deployment platforms  
+
+#### 🧰 Tools & Version Control
+- **GitHub** – Code hosting & versioning  
+- **GitLab CI/CD** – Continuous integration & delivery pipelines  
+- **WordPress** – CMS for websites & blogs  
+- **Notion / Figma / Adobe Suite (Photoshop, Illustrator, After Effects)** – Design & documentation  
 
 ---
 
@@ -44,13 +68,13 @@ I build modern web apps that combine clean design, strong performance, and smart
 
 ---
 
-### 💬 Dev Quote  
-> "Code is like humor. When you have to explain it, it’s bad." — Cory House  
+### 💬 Favorite Quote  
+> “Simplicity is the soul of efficiency.” — Austin Freeman  
 
 ---
 
 ### ☕ Support My Work  
-If you enjoy my projects, you can support me here:  
+If you like what I build or want to support my projects 👇  
 <p align="center">
   <a href="https://paypal.me/@Mahmoud974">
     <img src="https://img.shields.io/badge/Donate%20on-PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white"/>

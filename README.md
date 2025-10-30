@@ -66,17 +66,3 @@ Je conçois des interfaces modernes, performantes et élégantes, tout en explor
 <h3 align="center">💬 Citation favorite</h3>
 <p align="center"><i>« La simplicité est la sophistication suprême. » — Léonard de Vinci</i></p>
 
----
-
-<h3 align="center">☕ Soutiens mon travail</h3>
-<p align="center">
-  <a href="https://paypal.me/@Mahmoud974">
-    <img src="https://img.shields.io/badge/Soutenir%20sur-PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white"/>
-  </a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Mahmoud974&label=Visiteurs&color=6&icon=5&pretty=true" />
-</p>

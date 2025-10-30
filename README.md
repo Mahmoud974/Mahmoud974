@@ -28,10 +28,6 @@ Je crée des interfaces modernes et performantes, en combinant design, logique e
 </p>
 
 
-<p align="center">
-⚡ <i>Fun fact :</i> je suis <b>paresseux… mais malin</b> — j’automatise tout ce qui peut l’être 😎  
-</p>
-
 ---
 
 <h3 align="center">🌐 Me contacter</h3>

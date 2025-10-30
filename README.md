@@ -54,14 +54,7 @@ Je conçois des interfaces modernes, performantes et élégantes, tout en explor
 
 ---
 
-<h3 align="center">📅 Mes contributions GitHub</h3>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mahmoud974&bg_color=0D1117&color=00AEFF&line=00AEFF&point=FFFFFF&hide_border=true" alt="Graphique des contributions GitHub de Mahmoud Moussa" />
-</p>
-
-<p align="center">
-  <i>Chaque carré représente une contribution : code, issue ou commit 💪</i>
-</p>
+# 📊 GitHub Stats: ![](https://github-readme-stats.vercel.app/api?username=Mahmoud974&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/> ![](https://github-readme-streak-stats.herokuapp.com/?user=Mahmoud974&theme=tokyonight&hide_border=false)<br/> ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mahmoud974&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
 

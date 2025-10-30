@@ -9,10 +9,10 @@ Je conçois des interfaces modernes, performantes et élégantes, tout en explor
 ---
 
 ### 💡 À propos de moi  
-- 🎥 Je travaille actuellement sur **un vlog d’auteur**, mêlant créativité et technologie  
+- 🎥 Je travaille sur **un vlog d’auteur**, mêlant créativité et technologie  
 - 🚖 Je développe une **application de transport (type Uber)** pour les **Comores**  
 - 🌱 J’apprends **Redux Toolkit** et la gestion d’état avancée avec React  
-- ☁️ J’aime explorer **AWS, Kubernetes, et Terraform**  
+- ☁️ J’aime explorer **AWS, Kubernetes et Terraform**  
 - ⚡ Fun fact : *Je suis paresseux… mais malin : j’automatise tout ce qui peut l’être 😎*  
 
 ---
@@ -54,12 +54,17 @@ Je conçois des interfaces modernes, performantes et élégantes, tout en explor
 
 ---
 
-# 📊 GitHub Stats: ![](https://github-readme-stats.vercel.app/api?username=Mahmoud974&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/> ![](https://github-readme-streak-stats.herokuapp.com/?user=Mahmoud974&theme=tokyonight&hide_border=false)<br/> ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mahmoud974&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<h3 align="center">📅 Mes contributions GitHub</h3>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mahmoud974&bg_color=0D1117&color=00AEFF&line=00AEFF&point=FFFFFF&hide_border=true" alt="Graphique des contributions GitHub de Mahmoud Moussa" />
+</p>
+
+<p align="center"><i>Chaque carré représente une contribution : code, issue ou commit 💪</i></p>
 
 ---
 
 <h3 align="center">💬 Citation favorite</h3>
-<p align="center"><i>“La simplicité est la sophistication suprême.” — Léonard de Vinci</i></p>
+<p align="center"><i>« La simplicité est la sophistication suprême. » — Léonard de Vinci</i></p>
 
 ---
 

@@ -1,23 +1,23 @@
-<h1 align="center">👋 Hey there, I'm Mahmoud Moussa</h1>
+<h1 align="center">👋 Salut, moi c’est Mahmoud Moussa</h1>
 
 <p align="center">
-🚀 Full-Stack Developer | ☁️ Cloud & DevOps Enthusiast | 🎨 Designer  
+💻 Développeur Full-Stack | ☁️ Passionné de Cloud & DevOps | 🎨 Créatif dans l’âme  
 <br/>
-I create scalable applications with modern web technologies and cloud-native architectures.
+Je conçois des applications modernes, performantes et élégantes, du front-end au déploiement cloud.
 </p>
 
 ---
 
-### 🧠 About Me  
-- 🎥 Currently working on **an Author’s Vlog** — merging creativity & technology  
-- 🚖 Developing a **ride-sharing app for the Comoros Islands** (Uber-like concept)  
-- 🌱 Learning **Redux Toolkit** & improving state management in React  
-- 💡 Interested in **cloud automation, microservices, and scalable design**  
-- ⚡ Fun fact: *I’m lazy — but I use it as motivation to automate everything I can 😎*
+### 💡 À propos de moi  
+- 🎥 Je travaille actuellement sur **un vlog d’auteur**, mêlant créativité et technologie  
+- 🚖 Je développe une **application de transport (type Uber)** pour les **Comores**  
+- 🌱 J’apprends **Redux Toolkit** et l’optimisation de l’état dans React  
+- ☁️ Je m’intéresse au **Cloud, DevOps, et à l’automatisation**  
+- ⚡ Fun fact : *Je suis paresseux… mais malin : j’automatise tout ce qui peut l’être 😎*  
 
 ---
 
-### 🌐 Connect With Me  
+### 🌐 Me contacter  
 <p align="left">
 <a href="https://www.linkedin.com/in/mahamoudmoussa1" target="_blank">
   <img src="https://skillicons.dev/icons?i=linkedin" width="45" alt="LinkedIn"/>
@@ -26,39 +26,37 @@ I create scalable applications with modern web technologies and cloud-native arc
 
 ---
 
-### 💻 Tech Stack (with names)
-#### 🧩 Front-End
-- **React.js** – Modern component-based UI library  
-- **Next.js** – Full-stack React framework with server-side rendering  
-- **Zustand** – Lightweight state management for React  
-- **Redux Toolkit** – Scalable state management system  
-- **Tailwind CSS / SASS / Bootstrap** – Styling frameworks for modern UI  
+### 🧠 Compétences techniques  
 
-#### ⚙️ Back-End
-- **Node.js & Express.js** – Backend runtime & REST API framework  
-- **Prisma ORM** – Database toolkit for Node.js and TypeScript  
-- **PostgreSQL** – Relational database  
-- **JWT (JSON Web Tokens)** – Secure authentication  
+#### 🎨 Front-End  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,redux,tailwind,bootstrap,sass" /><br/>
+  <b>React.js · Next.js · TypeScript · Redux Toolkit · Tailwind CSS · Bootstrap · SASS</b>
+</p>
 
-#### ☁️ Cloud & DevOps
-- **AWS (Amazon Web Services)** – Cloud computing & infrastructure  
-- **Docker** – Containerization platform  
-- **Kubernetes (K3s)** – Container orchestration  
-- **Terraform** – Infrastructure as Code (IaC)  
-- **n8n** – Automation and workflow orchestration tool  
-- **Netlify / Vercel** – Cloud deployment platforms  
+#### ⚙️ Back-End  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,prisma,postgresql" /><br/>
+  <b>Node.js · Express.js · Prisma ORM · PostgreSQL</b>
+</p>
 
-#### 🧰 Tools & Version Control
-- **GitHub** – Code hosting & versioning  
-- **GitLab CI/CD** – Continuous integration & delivery pipelines  
-- **WordPress** – CMS for websites & blogs  
-- **Notion / Figma / Adobe Suite (Photoshop, Illustrator, After Effects)** – Design & documentation  
+#### ☁️ Cloud & DevOps  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,kubernetes,docker,terraform" /><br/>
+  <b>AWS · Kubernetes (K3s) · Docker · Terraform</b>
+</p>
+
+#### 🔧 Outils & Automatisation  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=github,gitlab,wordpress,n8n,figma,notion" /><br/>
+  <b>GitHub · GitLab CI/CD · WordPress · n8n · Figma · Notion</b>
+</p>
 
 ---
 
-### 📊 GitHub Analytics  
+### 📊 Statistiques GitHub  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mahmoud974&show_icons=true&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Mahmoud974&show_icons=true&theme=tokyonight&hide=commits" height="165"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahmoud974&layout=compact&theme=tokyonight" height="165"/>
 </p>
 
@@ -68,21 +66,21 @@ I create scalable applications with modern web technologies and cloud-native arc
 
 ---
 
-### 💬 Favorite Quote  
-> “Simplicity is the soul of efficiency.” — Austin Freeman  
+### 💬 Citation favorite  
+> “La simplicité est la sophistication suprême.” — Léonard de Vinci  
 
 ---
 
-### ☕ Support My Work  
-If you like what I build or want to support my projects 👇  
+### ☕ Soutiens mon travail  
+Si tu apprécies mes projets ou souhaites m’encourager 👇  
 <p align="center">
   <a href="https://paypal.me/@Mahmoud974">
-    <img src="https://img.shields.io/badge/Donate%20on-PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Soutenir%20sur-PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white"/>
   </a>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Mahmoud974&label=Profile%20Views&color=6&icon=5&pretty=true" />
+  <img src="https://visitcount.itsvg.in/api?id=Mahmoud974&label=Visiteurs&color=6&icon=5&pretty=true" />
 </p>

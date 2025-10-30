@@ -14,6 +14,7 @@ Je conçois des interfaces modernes, performantes et élégantes, tout en explor
 - 🚖 Je développe une **application de transport (type Uber)** pour les **Comores**  
 - 🌱 J’apprends **Redux Toolkit** et la gestion d’état avancée avec React  
 - ☁️ J’aime explorer **AWS, Kubernetes, Terraform, Prometheus et Grafana**  
+- 🏅 J’ai validé la certification **AWS Certified Cloud Practitioner**  
 - ⚡ Fun fact : *Je suis paresseux… mais malin : j’automatise tout ce qui peut l’être 😎*  
 
 ---
@@ -22,18 +23,16 @@ Je conçois des interfaces modernes, performantes et élégantes, tout en explor
 
 <p align="center">
   <a href="mailto:TON_EMAIL@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" width="45" alt="Gmail"/>
+    <img src="https://skillicons.dev/icons?i=gmail" width="50" alt="Gmail"/>
   </a>
   &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/mahamoudmoussa1" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="45" alt="LinkedIn"/>
+    <img src="https://skillicons.dev/icons?i=linkedin" width="50" alt="LinkedIn"/>
   </a>
-</p>
-
-<p align="center">
-  📧 <b>Email :</b> <a href="mailto:TON_EMAIL@gmail.com">TON_EMAIL@gmail.com</a>  
-  <br/>
-  💼 <b>LinkedIn :</b> <a href="https://www.linkedin.com/in/mahamoudmoussa1">/in/mahamoudmoussa1</a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/Mahmoud974" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" width="50" alt="GitHub"/>
+  </a>
 </p>
 
 ---
@@ -55,7 +54,7 @@ Je conçois des interfaces modernes, performantes et élégantes, tout en explor
 <h4 align="center">☁️ Cloud & DevOps</h4>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=aws,kubernetes,docker,terraform,prometheus,grafana,vercel" /><br/>
-  <b>AWS · Kubernetes (K3s) · Docker · Terraform · Prometheus · Grafana · Vercel</b>
+  <b>AWS (Cloud Practitioner) · Kubernetes (K3s) · Docker · Terraform · Prometheus · Grafana · Vercel</b>
 </p>
 
 <p align="center">

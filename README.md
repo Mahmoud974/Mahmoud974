@@ -1,4 +1,4 @@
-<h1 align="center">👋 Salut, moi c’est Mahmoud Moussa</h1>
+<h1 align="center">👋 Salut, moi c’est Mahmoud</h1>
 
 <p align="center">
 🎨 <b>Développeur Front-End</b> | ☁️ <b>Passionné de Cloud et DevOps</b>  
@@ -49,7 +49,7 @@ Je conçois des interfaces modernes, performantes et élégantes, tout en explor
 <h4 align="center">🧰 Outils & Automatisation</h4>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=github,gitlab,wordpress,n8n,figma,notion" /><br/>
-  <b>GitHub · GitLab CI/CD · WordPress · n8n · Figma · Notion</b>
+  <b>GitHub · GitLab CI/CD · WordPress ·  Figma · Notion</b>
 </p>
 
 ---

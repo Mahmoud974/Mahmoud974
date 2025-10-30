@@ -8,7 +8,8 @@ Je conçois des interfaces modernes, performantes et élégantes, tout en explor
 
 ---
 
-### 💡 À propos de moi  
+<h3 align="center">💡 À propos de moi</h3>
+
 - 🎥 Je travaille sur **un vlog d’auteur**, mêlant créativité et technologie  
 - 🚖 Je développe une **application de transport (type Uber)** pour les **Comores**  
 - 🌱 J’apprends **Redux Toolkit** et la gestion d’état avancée avec React  
@@ -17,11 +18,22 @@ Je conçois des interfaces modernes, performantes et élégantes, tout en explor
 
 ---
 
-### 🌐 Me contacter  
+<h3 align="center">🌐 Me contacter</h3>
+
 <p align="center">
-<a href="https://www.linkedin.com/in/mahamoudmoussa1" target="_blank">
-  <img src="https://skillicons.dev/icons?i=linkedin" width="45" alt="LinkedIn"/>
-</a>
+  <a href="mailto:TON_EMAIL@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" width="45" alt="Gmail"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/mahamoudmoussa1" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="45" alt="LinkedIn"/>
+  </a>
+</p>
+
+<p align="center">
+  📧 <b>Email :</b> <a href="mailto:TON_EMAIL@gmail.com">TON_EMAIL@gmail.com</a>  
+  <br/>
+  💼 <b>LinkedIn :</b> <a href="https://www.linkedin.com/in/mahamoudmoussa1">/in/mahamoudmoussa1</a>
 </p>
 
 ---
@@ -42,12 +54,12 @@ Je conçois des interfaces modernes, performantes et élégantes, tout en explor
 
 <h4 align="center">☁️ Cloud & DevOps</h4>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,kubernetes,docker,terraform,prometheus,grafana" /><br/>
-  <b>AWS · Kubernetes (K3s) · Docker · Terraform · Prometheus · Grafana</b>
+  <img src="https://skillicons.dev/icons?i=aws,kubernetes,docker,terraform,prometheus,grafana,vercel" /><br/>
+  <b>AWS · Kubernetes (K3s) · Docker · Terraform · Prometheus · Grafana · Vercel</b>
 </p>
 
 <p align="center">
-  <i>Surveillance, orchestration et automatisation du cloud.</i>
+  <i>Surveillance, déploiement et automatisation d’infrastructures cloud.</i>
 </p>
 
 <h4 align="center">🧰 Outils & Automatisation</h4>

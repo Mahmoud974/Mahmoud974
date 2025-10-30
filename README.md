@@ -3,35 +3,48 @@
 <p align="center">
 🎨 <b>Développeur Front-End</b> | ☁️ <b>Passionné de Cloud et DevOps</b>  
 <br/>
-Je conçois des interfaces modernes, performantes et élégantes, tout en explorant les technologies cloud pour les rendre scalables.
+Je crée des interfaces modernes et performantes, en combinant design, logique et technologies cloud.
 </p>
 
 ---
 
 <h3 align="center">💡 À propos de moi</h3>
 
-- 🎥 Je travaille sur **un vlog d’auteur**, mêlant créativité et technologie  
-- 🚖 Je développe une **application de transport (type Uber)** pour les **Comores**  
-- 🌱 J’apprends **Redux Toolkit** et la gestion d’état avancée avec React  
-- ☁️ J’aime explorer **AWS, Kubernetes, Terraform, Prometheus et Grafana**  
-- 🏅 J’ai validé la certification **AWS Certified Cloud Practitioner**  
-- ⚡ Fun fact : *Je suis paresseux… mais malin : j’automatise tout ce qui peut l’être 😎*  
+<p align="center">
+💻 Je développe des <b>sites vitrines</b> et des <b>fonctionnalités front-end interactives</b> avec <b>React</b>, <b>Next.js</b> et <b>TypeScript</b>.  
+</p>
+
+<p align="center">
+🛍️ En ce moment, je construis un <b>site d’achat et de revente d’occasion</b> pour mettre en pratique mes connaissances du front-end, des API et du déploiement cloud.  
+</p>
+
+<p align="center">
+🌱 J’apprends <b>Redux Toolkit</b> pour améliorer la gestion d’état dans mes applications React.  
+</p>
+
+<p align="center">
+☁️ J’explore l’univers du <b>Cloud</b> à travers <b>AWS</b>, <b>Kubernetes</b>, <b>Terraform</b>, <b>Prometheus</b> et <b>Grafana</b>.  
+</p>
+
+<p align="center">
+🏅 Certifié <b>AWS Cloud Practitioner</b>  
+</p>
+
+<p align="center">
+⚡ <i>Fun fact :</i> je suis <b>paresseux… mais malin</b> — j’automatise tout ce qui peut l’être 😎  
+</p>
 
 ---
 
 <h3 align="center">🌐 Me contacter</h3>
 
 <p align="center">
-  <a href="mailto:TON_EMAIL@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" width="50" alt="Gmail"/>
+  <a href="mailto:manuscrit974@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" width="55" alt="Gmail"/>
   </a>
   &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/mahamoudmoussa1" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="50" alt="LinkedIn"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/Mahmoud974" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" width="50" alt="GitHub"/>
+    <img src="https://skillicons.dev/icons?i=linkedin" width="55" alt="LinkedIn"/>
   </a>
 </p>
 
@@ -63,8 +76,8 @@ Je conçois des interfaces modernes, performantes et élégantes, tout en explor
 
 <h4 align="center">🧰 Outils & Automatisation</h4>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=github,gitlab,wordpress,figma,notion" /><br/>
-  <b>GitHub · GitLab CI/CD · WordPress · Figma · Notion</b>
+  <img src="https://skillicons.dev/icons?i=gitlab,github,wordpress,figma,notion" /><br/>
+  <b>GitLab CI/CD · GitHub · WordPress · Figma · Notion</b>
 </p>
 
 ---

@@ -15,20 +15,18 @@ Je crée des interfaces modernes et performantes, en combinant design, logique e
 </p>
 
 <p align="center">
-🛍️ En ce moment, je construis un <b>site d’achat et de revente d’occasion</b> pour mettre en pratique mes connaissances du front-end, des API et du déploiement cloud.  
+🏅 Certifié <b>AWS Cloud Practitioner</b>  
 </p>
 
 <p align="center">
-🌱 J’apprends <b>Redux Toolkit</b> pour améliorer la gestion d’état dans mes applications React.  
+🛍️ En ce moment, je construis un <b>site d’achat et de revente d’occasion</b> pour mettre en pratique mes connaissances du front-end, des API et du déploiement cloud.  
 </p>
+ 
 
 <p align="center">
 ☁️ J’explore l’univers du <b>Cloud</b> à travers <b>AWS</b>, <b>Kubernetes</b>, <b>Terraform</b>, <b>Prometheus</b> et <b>Grafana</b>.  
 </p>
 
-<p align="center">
-🏅 Certifié <b>AWS Cloud Practitioner</b>  
-</p>
 
 <p align="center">
 ⚡ <i>Fun fact :</i> je suis <b>paresseux… mais malin</b> — j’automatise tout ce qui peut l’être 😎  

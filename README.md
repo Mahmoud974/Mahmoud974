@@ -1,7 +1,7 @@
-<h1 align="center">👋 Salut, moi c’est Mahmoud Moussa</h1>
+<h1 align="center">👋 Salut, moi c’est Mahmoud</h1>
 
 <p align="center">
-💻 Développeur Full-Stack | ☁️ Passionné de Cloud & DevOps | 🎨 Créatif dans l’âme  
+💻 Développeur Front-end | ☁️ Passionné de Cloud & DevOps | 🎨 Créatif dans l’âme  
 <br/>
 Je conçois des applications modernes, performantes et élégantes, du front-end au déploiement cloud.
 </p>
@@ -13,12 +13,11 @@ Je conçois des applications modernes, performantes et élégantes, du front-end
 - 🚖 Je développe une **application de transport (type Uber)** pour les **Comores**  
 - 🌱 J’apprends **Redux Toolkit** et l’optimisation de l’état dans React  
 - ☁️ Je m’intéresse au **Cloud, DevOps, et à l’automatisation**  
-- ⚡ Fun fact : *Je suis paresseux… mais malin : j’automatise tout ce qui peut l’être 😎*  
 
 ---
 
 ### 🌐 Me contacter  
-<p align="left">
+<p align="center">
 <a href="https://www.linkedin.com/in/mahamoudmoussa1" target="_blank">
   <img src="https://skillicons.dev/icons?i=linkedin" width="45" alt="LinkedIn"/>
 </a>
@@ -54,14 +53,13 @@ Je conçois des applications modernes, performantes et élégantes, du front-end
 
 ---
 
-### 📊 Statistiques GitHub  
+### 📅 Mes contributions GitHub  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mahmoud974&show_icons=true&theme=tokyonight&hide=commits" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahmoud974&layout=compact&theme=tokyonight" height="165"/>
+  <img src="https://ghchart.rshah.org/006AFF/Mahmoud974" alt="Graphique des contributions de Mahmoud974" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Mahmoud974&theme=tokyonight" alt="GitHub Streak"/>
+  <i>Chaque carré représente une contribution : code, issue, ou commit 💪</i>
 </p>
 
 ---

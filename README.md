@@ -12,7 +12,7 @@ Je conçois des interfaces modernes, performantes et élégantes, tout en explor
 - 🎥 Je travaille sur **un vlog d’auteur**, mêlant créativité et technologie  
 - 🚖 Je développe une **application de transport (type Uber)** pour les **Comores**  
 - 🌱 J’apprends **Redux Toolkit** et la gestion d’état avancée avec React  
-- ☁️ J’aime explorer **AWS, Kubernetes et Terraform**  
+- ☁️ J’aime explorer **AWS, Kubernetes, Terraform, Prometheus et Grafana**  
 - ⚡ Fun fact : *Je suis paresseux… mais malin : j’automatise tout ce qui peut l’être 😎*  
 
 ---
@@ -30,8 +30,8 @@ Je conçois des interfaces modernes, performantes et élégantes, tout en explor
 
 <h4 align="center">🎨 Front-End</h4>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,redux,tailwind,bootstrap,sass" /><br/>
-  <b>React.js · Next.js · TypeScript · Redux Toolkit · Tailwind CSS · Bootstrap · SASS</b>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,redux,tailwind,bootstrap,sass,jest" /><br/>
+  <b>React.js · Next.js · TypeScript · Redux Toolkit · Tailwind CSS · Bootstrap · SASS · Jest · SEO</b>
 </p>
 
 <h4 align="center">⚙️ Back-End</h4>
@@ -42,21 +42,25 @@ Je conçois des interfaces modernes, performantes et élégantes, tout en explor
 
 <h4 align="center">☁️ Cloud & DevOps</h4>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,kubernetes,docker,terraform" /><br/>
-  <b>AWS · Kubernetes (K3s) · Docker · Terraform</b>
+  <img src="https://skillicons.dev/icons?i=aws,kubernetes,docker,terraform,prometheus,grafana" /><br/>
+  <b>AWS · Kubernetes (K3s) · Docker · Terraform · Prometheus · Grafana</b>
+</p>
+
+<p align="center">
+  <i>Surveillance, orchestration et automatisation du cloud.</i>
 </p>
 
 <h4 align="center">🧰 Outils & Automatisation</h4>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=github,gitlab,wordpress,n8n,figma,notion" /><br/>
-  <b>GitHub · GitLab CI/CD · WordPress ·  Figma · Notion</b>
+  <img src="https://skillicons.dev/icons?i=github,gitlab,wordpress,figma,notion" /><br/>
+  <b>GitHub · GitLab CI/CD · WordPress · Figma · Notion</b>
 </p>
 
 ---
 
 <h3 align="center">📅 Mes contributions GitHub</h3>
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mahmoud974&bg_color=0D1117&color=00AEFF&line=00AEFF&point=FFFFFF&hide_border=true" alt="Graphique des contributions GitHub de Mahmoud Moussa" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mahmoud974&bg_color=0D1117&color=00AEFF&line=00AEFF&point=FFFFFF&hide_border=true" alt="Graphique des contributions GitHub de Mahmoud" />
 </p>
 
 <p align="center"><i>Chaque carré représente une contribution : code, issue ou commit 💪</i></p>
@@ -65,4 +69,3 @@ Je conçois des interfaces modernes, performantes et élégantes, tout en explor
 
 <h3 align="center">💬 Citation favorite</h3>
 <p align="center"><i>« La simplicité est la sophistication suprême. » — Léonard de Vinci</i></p>
-
